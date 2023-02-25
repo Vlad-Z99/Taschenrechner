@@ -1,0 +1,11 @@
+C:\Users\Gast31\OneDrive\Рабочий стол\C#\Taschenrechner\Taschenrechner\bin\Debug\Taschenrechner.exe.config
+C:\Users\Gast31\OneDrive\Рабочий стол\C#\Taschenrechner\Taschenrechner\bin\Debug\Taschenrechner.exe
+C:\Users\Gast31\OneDrive\Рабочий стол\C#\Taschenrechner\Taschenrechner\bin\Debug\Taschenrechner.pdb
+C:\Users\Gast31\OneDrive\Рабочий стол\C#\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.csproj.AssemblyReference.cache
+C:\Users\Gast31\OneDrive\Рабочий стол\C#\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gast31\OneDrive\Рабочий стол\C#\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.Form1.resources
+C:\Users\Gast31\OneDrive\Рабочий стол\C#\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.Properties.Resources.resources
+C:\Users\Gast31\OneDrive\Рабочий стол\C#\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.csproj.GenerateResource.cache
+C:\Users\Gast31\OneDrive\Рабочий стол\C#\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.csproj.CoreCompileInputs.cache
+C:\Users\Gast31\OneDrive\Рабочий стол\C#\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.exe
+C:\Users\Gast31\OneDrive\Рабочий стол\C#\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.pdb
