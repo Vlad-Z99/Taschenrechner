@@ -1,0 +1,55 @@
+body {
+	margin: 0px;
+	font-family: sans-serif;
+}
+
+
+#game {
+	background: #54057b;
+	width: 100vw;
+	height: 100vh;
+
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+
+#game-canvas {
+	display: block;
+	border-radius: 5px;	
+}
+
+.game-header {
+	padding-top: 1vmin;
+	padding-bottom: 1vmin;
+
+	display: flex;
+	justify-content: space-between;
+}
+.game-score {
+	padding: 10px 15px;
+	min-width: 160px;
+	height: 50px;
+	background: #2a2a48;
+	border-radius: 5px;
+
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.score-count{
+	font-size: 3vmin;
+	color: #0d03ff;
+	font-weight: bold;
+}
+
+.canvas-wrapper {
+	background-color: #9595e5;
+	border-radius: 5px;
+	border: 10px solid #161618;
+	box-shadow: 0px 0px 40px 10px #75e8d6;
+
+	background-image: url("data:image/svg+xml,%3Csvg width='147' height='107' viewBox='0 0 147 107' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Crect width='147' height='107' fill='%23161618'/%3E%3C/svg%3E");
+    
+}
